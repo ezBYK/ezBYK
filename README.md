@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on a brut forcer in ruby
 - 🌱 I’m currently learning osint,forensic 
-- 🌱 html,css,js,ruby,python soon c ;) (im a very bad developer x) )
+- 🌱 html, css, js ,ruby, python soon c ;) (im a very bad developer x) )
 - 👯 I’m looking to collaborate on ctf
 - ⚡ dream to be a drifter and a pentester
  
