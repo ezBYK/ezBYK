@@ -1,6 +1,6 @@
 ### hey 👋
 
-<!--
+<h2>
 **ezBYK/ezBYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 
 --> discord : ezb3sh#0443
 
-
+</h2>
 
 
 
 <img src="https://komarev.com/ghpvc/?username=ezBYK&label=PROFILE+VIEWS"> 
-
-
+O.O
  
