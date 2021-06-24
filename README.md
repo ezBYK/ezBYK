@@ -1,16 +1,18 @@
 ### hey 👋
 
 <h2>
- ezb3sh
- young man
+ ezb3sh a simple man
 
+ --< phonk listener
+---[ on parrot os
+ 
 - 🔭 I’m currently working on a brut forcer in ruby
 - 🌱 I’m currently learning osint,forensic 
 - 🌱 html,css,js,ruby,python soon c ;) (im a very bad developer x) )
 - 👯 I’m looking to collaborate on ctf
 - ⚡ dream to be a drifter and a pentester
-
---> discord : ezb3sh#0443
+ 
+--> discord : ezb3sh#0443 
 
 </h2>
 
