@@ -1,9 +1,8 @@
 ### hey 👋
 
 <h2>
-**ezBYK/ezBYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ ezb3sh
+ young man
 
 - 🔭 I’m currently working on a brut forcer in ruby
 - 🌱 I’m currently learning osint,forensic 
