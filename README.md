@@ -14,6 +14,10 @@
  
 --> discord : ezb3sh#0443 
 
+ <a href="https://www.root-me.org/ezbylovesh?lang=fr">My root-me </a>
+  <a href="https://tryhackme.com/p/ezb3sh">My tryhackme </a>
+
+ 
 </h2>
 
 
