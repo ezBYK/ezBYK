@@ -6,8 +6,8 @@
  --< phonk listener
 ---[ on parrot os
  
-- 🔭 I’m currently working on a brut forcer in ruby
-- 🌱 I’m currently learning osint,forensic 
+- 🔭 I’m currently working on a ssh brut forcer in ruby
+- 🌱 I’m currently learning osint,web
 - 🌱 html, css, js ,ruby, python soon c ;) (im a very bad developer x) )
 - 👯 I’m looking to collaborate on ctf
 - ⚡ dream to be a drifter and a pentester
