@@ -4,9 +4,10 @@
  ezb3sh a simple man
 
  --< phonk listener
----[ on parrot os
- 
-- 🔭 I’m currently working on a ssh brut forcer in ruby
+---[ on parrot 
+
+   -/people change because of an app where is the world going?
+
 - 🌱 I’m currently learning osint,web
 - 🌱 html, css, js ,ruby, python soon c ;) (im a very bad developer x) )
 - 👯 I’m looking to collaborate on ctf
