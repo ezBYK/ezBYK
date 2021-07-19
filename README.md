@@ -4,7 +4,7 @@
 
 
           
-<img src="https://i.pinimg.com/originals/dc/4d/b1/dc4db1c340e223ef56883a33df40e00b.gif" width="800"  alt="this slowpoke moves"  width="250" />
+<img src="https://i.pinimg.com/originals/dc/4d/b1/dc4db1c340e223ef56883a33df40e00b.gif" width="700"  alt="this slowpoke moves"  width="250" />
  
 --> discord : ezb3sh#0443 
 
