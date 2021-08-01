@@ -13,12 +13,10 @@
 
  
 </h2>
- ezb3sh a simple man who doesn't like dev 
 
  --< phonk listener
----[ on parrot 
 
-   -/people change because of an app where is the world going?
+   -/ where is the world going?
 
 
 <img src="https://komarev.com/ghpvc/?username=ezBYK&label=PROFILE+VIEWS"> 
