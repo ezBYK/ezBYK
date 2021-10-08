@@ -4,7 +4,7 @@
 
 
           
-<img src="https://ezby.me/img/whoami.png" width="900"  alt="this slowpoke moves"  width="250" />
+<img src="https://ezby.me/img/whoami.png"  alt="this slowpoke moves"/>
  
 --> discord : ezb3sh#0443 
 
