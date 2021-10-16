@@ -15,8 +15,8 @@
  
 </h2>
 
- --< phonk
-  -/ where is the world going?
+ --< phonk <br>
+  /-fuck the new world..
 
 
 <img src="https://komarev.com/ghpvc/?username=ezBYK&label=PROFILE+VIEWS"> 
