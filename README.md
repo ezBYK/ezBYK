@@ -15,11 +15,9 @@
  
 </h2>
 
- --< phonk listener
-
-   -/ where is the world going?
+ --< phonk
+  -/ where is the world going?
 
 
 <img src="https://komarev.com/ghpvc/?username=ezBYK&label=PROFILE+VIEWS"> 
-O.O
- 
+
