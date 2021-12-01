@@ -4,7 +4,7 @@
 
 
           
-<img src="https://i.redd.it/2na5ouyy733z.gif"  alt="this slowpoke moves"/>
+<img src="https://www.plasticosydecibelios.com/wp-content/uploads/2018/04/tumblr_ommeqfZwUW1vxnjybo1_500.gif"  alt="this slowpoke moves"/>
 
 --> discord : ezb3sh#0443 
 
@@ -16,7 +16,7 @@
 </h2>
 
  --< phonk <br>
-  /-Where the world goes ?
+  /- drift
 
 
 <img src="https://komarev.com/ghpvc/?username=ezBYK&label=PROFILE+VIEWS"> 
