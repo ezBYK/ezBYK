@@ -15,8 +15,7 @@
  
 </h2>
 
- --< phonk <br>
-  /- drift
+
 
 
 <img src="https://komarev.com/ghpvc/?username=ezBYK&label=PROFILE+VIEWS"> 
